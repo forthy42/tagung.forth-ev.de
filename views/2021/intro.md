@@ -1,4 +1,4 @@
-# EuroForth 2021
+# Forth Tagung 2021
 REGISTERBUTTON
 
 __Informationen zu [COVID 19 / Coronavirus Information](#covid-19--coronavirus) weiter unten__
