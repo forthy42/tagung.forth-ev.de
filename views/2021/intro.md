@@ -52,8 +52,11 @@ zu installieren um auf diesen ausweichen zu können
 
 Bitte nehmen Sie an unserem Systemtest teil, besonders wenn Sie nicht bei der EuroForth waren oder BigBlueButton noch nicht kennen.
 
+### Generalprobe
+Wer möchte kann gerne am Sonntag, 7. November um 16:00 an unserem Testcall teilnehmen. Raum: Konferenz, den Link finden Sie in Ihrer Registrationsemail.
+
 ### Forth Tagung 2021
-**on air** ... diese Sitzungen werden live auf [twitch](https://www.twitch.tv/4ther) gestreamed, aufgenommen und später auf [youtube](https://www.youtube.com/channel/UC_mpkwOO_1ILd66GUTNVPQg) hochgeladen um kommende Generationen zu erfreuen.
+**on air** ... einige Sitzungen werden live auf [twitch](https://www.twitch.tv/4ther) gestreamed, aufgenommen und später auf [youtube](https://www.youtube.com/channel/UC_mpkwOO_1ILd66GUTNVPQg) hochgeladen um kommende Generationen zu erfreuen.
 
 #### Freitag, 12. November
 - 13:00 Zusammenkunft
