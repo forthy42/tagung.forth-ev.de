@@ -24,18 +24,11 @@ module.exports = {
     },
     hotels: [
         {
-            header: "Online - ForthTagung (11.-14. November)",
+            header: "Online - ForthTagung (12.-14. November)",
             description: "Voller Zugang",
             modes: [
                 { name: "Einzelperson:",    value: "ForthTagung+Online",    complete: 0.00 },
             ]
         },
-        {
-            header: "Online - Tag0 & ForthTagung (10.-14. September)",
-            description: "Voller Zugang",
-            modes: [
-                { name: "Einzelperson",     value: "Tag0+ForthgTagung+Online",    complete: 0.0 },
-            ]
-        }
     ]
 }

@@ -52,41 +52,22 @@ zu installieren um auf diesen ausweichen zu können
 
 Bitte nehmen Sie an unserem Systemtest teil, besonders wenn Sie nicht bei der EuroForth waren oder BigBlueButton noch nicht kennen.
 
-### Tag 0
-
-#### Donnerstag, 11. November UTC(+0)
-- 13:00 Zusammenkunft
-- 13:20 Ordnungsruf - fertig werden (Bitte spätestens jetzt onlkine sein)
-- 13:30 Workshops 1
-- 15:30 Bio Break
-- 15:45 Workshops 2
-- 17:30 End of main session
-
 ### Forth Tagung 2021
 **on air** ... diese Sitzungen werden live auf [twitch](https://www.twitch.tv/4ther) gestreamed, aufgenommen und später auf [youtube](https://www.youtube.com/channel/UC_mpkwOO_1ILd66GUTNVPQg) hochgeladen um kommende Generationen zu erfreuen.
 
-#### Freitag, 12. November UTC(+0)
-- 12:00 Zusammenkunft
-- 12:50 Ordnungsruf - fertig werden (Bitte spätestens jetzt onlkine sein)
-- 13:00 Begrüßung und Ablauferklärung
-- 13:30 Sitzung 1 **on air**
-- 14:30 Pause
-- 14:50 Sitzung 2 **on air**
-- 16:30 Offizielles Ende, Offener Chat
+#### Freitag, 12. November
+- 13:00 Zusammenkunft
+- 14:00 Start
+- 17:30 Ende
 
-#### Samstag, 13. November UTC(+0)
-- 12:00 Zusammenkunft
-- 12:50 Ordnungsruf - fertig werden (Bitte spätestens jetzt onlkine sein)
-- 13:00 Begrüßung und Ablauferklärung
-- 13:30 Sitzung 3 **on air**
-- 14:30 Pause
-- 14:50 Sitzung 4 **on air**
-- 16:30 Kochen/Essen Bestellen
-- 17:00 Gemeinsames Abendessen
+#### Samstag, 13. November
+- 13:00 Zusammenkunft
+- 14:00 Start
+- 18:00 Ende
 
-#### Sonntag, 14. November UTC(+0)
-- 08:00 Mitgliederversammlung, [Offizielle Einladung (PDF)](/files/2021/FG-Mitgliederversammlung-2021-11-14.pdf)
-- 11:30 Offizielles Ende, Offener Chat
+#### Sonntag, 14. November
+- 09:00 Mitgliederversammlung, [Offizielle Einladung (PDF)](/files/2021/FG-Mitgliederversammlung-2021-11-14.pdf)
+- 12:30 Ende
 
 # COVID 19 / Coronavirus
 Leider ist es auch dieses Jahr nicht möglich, dass wir uns physisch treffen, 
