@@ -3,6 +3,34 @@
 
 _Online registration is closed. If you are late to the party but want to participate, please watch on [twitch](https://www.twitch.tv/4ther), we also take questions from the chat._
 
+### Forth Tagung 2021
+**on air** ... diese Sitzungen werden live auf [twitch](https://www.twitch.tv/4ther) gestreamed, aufgenommen und später auf [youtube](https://www.youtube.com/channel/UC_mpkwOO_1ILd66GUTNVPQg) hochgeladen um kommende Generationen zu erfreuen.
+
+#### Freitag, 12. November UTC(+0)
+- 12:00 Zusammenkunft
+- 12:50 Ordnungsruf - fertig werden (Bitte spätestens jetzt onlkine sein)
+- 13:00 Begrüßung und Ablauferklärung
+- 13:30 Sitzung 1 **on air**
+- 14:30 Pause
+- 14:50 Sitzung 2 **on air**
+- 16:30 Offizielles Ende, Offener Chat
+
+#### Samstag, 13. November UTC(+0)
+- 12:00 Zusammenkunft
+- 12:50 Ordnungsruf - fertig werden (Bitte spätestens jetzt onlkine sein)
+- 13:00 Begrüßung und Ablauferklärung
+- 13:30 Sitzung 3 **on air**
+- 14:30 Pause
+- 14:50 Sitzung 4 **on air**
+- 16:30 Kochen/Essen Bestellen
+- 17:00 Gemeinsames Abendessen
+
+#### Sonntag, 14. November UTC(+0)
+- 08:00 Mitgliederversammlung, [Offizielle Einladung (PDF)](/files/2021/FG-Mitgliederversammlung-2021-11-14.pdf)
+- 11:30 Offizielles Ende, Offener Chat
+
+
+
 ### Forth standard meeting [agenda](https://forth-standard.org/proposals/2021-standards-meeting-agenda#contribution-210)
 _Please ignore this section if you only attend [EuroForth](#euroforth-conference)_
 #### Tuesday, 7th September UTC(+0)
