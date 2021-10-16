@@ -8,6 +8,21 @@ module.exports = {
     operatorEmail: "gerald.wodni@gmail.com",
     operatorBankAccount: "HINWEIS: dieser Wert wird über eine Umgebungsvariable bereitgestellt",
     chatRegistration: "HINWEIS: dieser Wert wird über eine Umgebungsvariable bereitgestellt",
+
+    emailTemplate: function _emailTemplate( { prices, values, price } ) {
+        return `Hotel: ${values.hotel}\nExtra Tage: ${values.extraDays}\nPreis (gesamt): ${price}`
+            + ( price > 0 ? `\nBitte transferieren Sie den vollen Eurobetrag an:\n${prices.operatorBankAccount}` : '' )
+            + ( prices.chatRegistration ? `\n\n${process.env.CHAT_REGISTRATION}` : '' )
+            + `\n\nUm an der Konferenz teilzunehmen, und  Ihre Präsentation(en) selbst zu editieren verwenden Sie bitte folgendem Link: https://${k.website}/${prices.myName}/${values.editHash}`
+            + `\n\nName: ${values.name}`
+            //+ `\nAddress: ${values.address}`
+            //+ `\nTelephone: ${values.telephone}`
+            + `\nMitgliesnummer: ${values.email}`
+            + `\nEmail: ${values.email}`
+            //+ `\n\nEntourage: ${values.partner}\nName: ${values.partnerName}\nAdresse: ${values.partnerAddress}`
+            + `\n\nPräsentation: ${values.presentationTitle} Länge: ${values.presentationLength}\n${values.presentationDescription}`
+            + `\n\nAnmerkung: ${values.remark}`;
+    },
     meeting: {
         openRegistration: "2021-10-12",
         start: "2021-11-10"

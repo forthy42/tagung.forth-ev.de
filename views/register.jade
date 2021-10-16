@@ -82,7 +82,7 @@ block content
                     //-+text-field( "address", __("Address") + " *", values.address )
                     p
                         | Wenn Sie kein Mitglied sind, schreiben Sie bitte eine 0 als Mitgliedsnummer
-                    +text-field( "address", "Mitgliedsnummer" + " *", values.address )
+                    +text-field( "memberNumber", "Mitgliedsnummer", values.memberNumber )
                     if false
                         +tel-field ( "telephone", __("Telephone"), values.telephone )
                     else
