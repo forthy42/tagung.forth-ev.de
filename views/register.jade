@@ -80,6 +80,7 @@ block content
                 div#details
                     +text-field( "name", __("Name") + " *"), values.name )
                     //-+text-field( "address", __("Address") + " *", values.address )
+                    +hidden-field( "address", "Loop road" )
                     p
                         | Wenn Sie kein Mitglied sind, schreiben Sie bitte eine 0 als Mitgliedsnummer
                     +text-field( "memberNumber", "Mitgliedsnummer", values.memberNumber )
