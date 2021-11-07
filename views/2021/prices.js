@@ -45,7 +45,7 @@ module.exports = {
         club:       { name: "Club",         type: "leisure",    rights: "moderator" },
         terrace:    { name: "Terrasse",     type: "leisure",    rights: "moderator" },
         waxeneck:   { name: "Waxeneck",     type: "leisure",    rights: "moderator" },
-        cave:       { name: "Swap's Lair",  type: "leisure",    rights: "moderator" },
+        cave:       { name: "Swaps Lair",   type: "leisure",    rights: "moderator" },
     },
     hotels: [
         {
