@@ -37,6 +37,7 @@ module.exports = {
         start: "2021-11-10"
     },
     bbbRooms: {
+        cave:       { name: "Swaps Lair",   type: "leisure",    rights: "moderator" },
         conference: { name: "Konferenz",   type: "conference", rights: "attendee", layout: "PRESENTATION_FOCUS"},
         chair:      { name: "Vorsitzender",type: "conference", rights: "moderator",layout: "PRESENTATION_FOCUS", roomId: "conference" },
         salon:      { name: "Schloss",      type: "leisure",    rights: "moderator" },
@@ -45,7 +46,6 @@ module.exports = {
         club:       { name: "Club",         type: "leisure",    rights: "moderator" },
         terrace:    { name: "Terrasse",     type: "leisure",    rights: "moderator" },
         waxeneck:   { name: "Waxeneck",     type: "leisure",    rights: "moderator" },
-        cave:       { name: "Swaps Lair",   type: "leisure",    rights: "moderator" },
     },
     hotels: [
         {
