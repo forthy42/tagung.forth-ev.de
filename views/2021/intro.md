@@ -62,6 +62,7 @@ Wer möchte kann gerne am Sonntag, 7. November um 16:00 an unserem Testcall teil
 - 13:00 Zusammenkunft
 - 14:00 Start
 - 18:00 Ende
+- 21:00 Drachenrat
 
 #### Sonntag, 14. November
 - 09:00 Mitgliederversammlung, [Offizielle Einladung (PDF)](/files/2021/FG-Mitgliederversammlung-2021-11-14.pdf)
