@@ -53,6 +53,8 @@ Wer möchte kann gerne am Sonntag, 7. November um 16:00 an unserem Testcall teil
 ### Forth Tagung 2021
 **on air** ... einige Sitzungen werden live auf [twitch](https://www.twitch.tv/4ther) gestreamed, aufgenommen und später auf [youtube](https://www.youtube.com/channel/UC_mpkwOO_1ILd66GUTNVPQg) hochgeladen um kommende Generationen zu erfreuen.
 
+__Das [aktuelleste Programm findet sich hier](/program).__
+
 #### Freitag, 12. November
 - 13:00 Zusammenkunft
 - 14:00 Start

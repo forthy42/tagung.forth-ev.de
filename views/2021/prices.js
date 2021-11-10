@@ -34,7 +34,7 @@ module.exports = {
     },
     meeting: {
         openRegistration: "2021-10-12",
-        start: "2021-11-14"
+        start: "2021-11-15"
     },
     bbbRooms: {
         cave:       { name: "Swaps Lair",   type: "leisure",    rights: "moderator" },
