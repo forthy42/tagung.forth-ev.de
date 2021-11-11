@@ -1,0 +1,24 @@
+//- (c)2014, 2021 by Gerald Wodni
+
+extends layout
+
+mixin video-box()
+    div&attributes(attributes).video-box
+        div.background
+        div.inner
+            block
+
+block content
+    +video-box().presentation
+
+    if showAvatar
+        +video-box().avatar
+
+    +sidebar
+
+    if !hideBottomText
+        div.bottom-text.title
+            = presentation
+        div.bottom-text.author
+            = author
+

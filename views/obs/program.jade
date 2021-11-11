@@ -1,0 +1,37 @@
+//- (c)2014, 2021 by Gerald Wodni
+
+extends layout
+
+mixin video-box()
+    div&attributes(attributes).video-box
+        div.background
+        div.inner
+            block
+
+block content
+    +video-box().presentation.schedule
+        each session in sessions || []
+            h3
+                code
+                    = session.shortTime
+                    i UTC
+                = session.name
+            ul
+                each presentation in session.presentations
+                    - console.log( presentation.id, activePresentationId );
+                    li( class = presentation.id == activePresentationId ? "active" : null )
+                          .presentation-guest
+                              = presentation.guestName
+                          .presentation-title
+                              = presentation.title
+
+    if showAvatar
+        +video-box().avatar
+
+    +sidebar
+
+    div.bottom-text.title
+        | Programm
+    //div.bottom-text.author
+    //    | 4ther
+
