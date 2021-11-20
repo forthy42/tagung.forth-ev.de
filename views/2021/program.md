@@ -10,13 +10,49 @@
 - 13:00 Zusammenkunft
 - 13:50 Ordnungsruf - fertig werden (Bitte spätestens jetzt online sein)
 - 14:00 Begrüßung und Ablauferklärung
-SESSIONS(2021-11-12) Offizielles Ende, Offener Chat
+- 14:30 Sitzung 1 **on air**
+  - Jörg Völker: Projekt FancyForth: Safety-First, Tags auf dem Return-Stack. (45min)  
+    Abstürze nerven, und Forth ist bekannt dafür das es bei der kleinsten Unachtsamkeit gerne kommentarlos abstürzt. Aber muß das so sein? Ist das wirklich noch 2021 oder nicht doch eher 1970? Wie kann man sich das Programmieren in Forth erleichtern und vereinfachen?
+  - Ulrich Hoffmann: Forth, die neue Synthese, Projektbericht (20min)  
+    Was ist Neues im Projekt Forth, die neue Synthese, geschehen
+- 15:35 BioBreak
+- 15:55 Sitzung2 **on air**
+  - Bernd Paysan: net2o update (60min)  
+    MINOS2 — Internationalisierung mit harfbuzz  
+    net2o — Dezentrale Zensur
+  - M. Anton Ertl: Gforth 1.0 IDE (15min)  
+    Demo der Gforth IDE
+  - Bernd Paysan: Gforth 1.0 (15min)  
+    Neue Header-Struktur, Recognizers
+  - Gerald Wodni: Gforth 1.0 C-Interface (15min)  
+    Swig-basierte C-Libraries: Vereinfachung des Aufrufens von C-Funktionen aus Forth heraus.
+- 17:40  Offizielles Ende, Offener Chat
 
 #### Samstag, 13. November
 - 13:00 Zusammenkunft
 - 13:50 Ordnungsruf - fertig werden (Bitte spätestens jetzt online sein)
 - 14:00 Begrüßung und Ablauferklärung
-SESSIONS(2021-11-13) Kochen/Essen Bestellen
+- 14:30 Sitzung 3 **on air**
+  - Ulrich Hoffmann: Vorstellung Forth-Gesellschaft (10min)  
+    Was ist die Forth Gesellschaft?
+  - Jörg Völker: Projekt FancyForth: FlexiFloat, ein Floating-Point für Forth, aber anders. (45min)  
+    Siehe oben.
+- 15:25 BioBreak
+- 15:45 Sitzung 4 **on air**
+  - Ulrich Hoffmann: Project Forth Works (15min)  
+    Einführung in das Projekt Forth Works - Wie wir unsere Ideen teilen können.
+  - M. Anton Ertl: Statische Überprüfung der Stack-Tiefe (30min)  
+    Das Ziel eines praktisch verwendbaren statischen Überprüfers für Forth  
+    (ob auf Stack-Tiefe oder auf Typen) ist das Finden von tatsächlichen  
+    Fehlern, gleichzeitig aber Fehlalarme möglichst zu vermeiden.  Dazu  
+    sollte der Überprüfer bei unbekannten Stack-Effekten (z.B. EXECUTE)  
+    annehmen, dass der Stack-Effekt mit der Umgebung zusammenpasst und  
+    nicht zu einem Fehler führt.  In diesem Vortrag beschreibe ich einen  
+    Stack-Checker, der so arbeitet, und seine Implementierung mit Hilfe  
+    von Ankern.
+  - M. Anton Ertl: xts oder Macros? (15min)  
+    Welches Interface fuer Wrapper, Traversals etc.
+- 16:45  Kochen/Essen Bestellen
 - 18:00 Gemeinsames Abendessen
 - 21:00 Drachenrat
 
