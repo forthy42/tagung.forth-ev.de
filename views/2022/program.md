@@ -12,21 +12,11 @@
 - 14:00 Begrüßung und Ablauferklärung
 SESSIONS(2022-05-06)  Offizielles Ende, Offener Chat
 
-- 14:30 Sitzung 1 **on air**
-- 15:35 BioBreak
-- 15:55 Sitzung2 **on air**
-- 17:40  Offizielles Ende, Offener Chat
-
 #### Samstag, 13. November
 - 13:00 Zusammenkunft
 - 13:50 Ordnungsruf - fertig werden (Bitte spätestens jetzt online sein)
-- 14:00 Begrüßung und Ablauferklärung
-- 14:30 Sitzung 3 **on air**
-- 15:15 BioBreak
-- 15:25 Exkursion **on air**
-- 15:45 Sitzung 4 **on air**
-- 16:45 Kochen/Essen Bestellen
-- 18:00 Gemeinsames Abendessen
+SESSIONS(2022-05-07) Kochen/Essen Bestellen
+- 18:00 Gemeinsames Abendessen/Neues Forth Buch bemurmeln
 - 21:00 Drachenrat
 
 #### Sonntag, 14. November
