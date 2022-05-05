@@ -10,6 +10,8 @@
 - 13:00 Zusammenkunft
 - 13:50 Ordnungsruf - fertig werden (Bitte spätestens jetzt online sein)
 - 14:00 Begrüßung und Ablauferklärung
+SESSIONS(2022-05-06)  Offizielles Ende, Offener Chat
+
 - 14:30 Sitzung 1 **on air**
 - 15:35 BioBreak
 - 15:55 Sitzung2 **on air**
