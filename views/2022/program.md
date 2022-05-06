@@ -14,7 +14,7 @@ SESSIONS(2022-05-06)  Offizielles Ende, Offener Chat
 
 #### Samstag, 7. Mai
 - 13:00 Zusammenkunft
-- 13:50 Ordnungsruf - fertig werden (Bitte spätestens jetzt online sein)
+- 13:30 Ordnungsruf - fertig werden (Bitte spätestens jetzt online sein)
 SESSIONS(2022-05-07) Kochen/Essen Bestellen
 - 18:00 Gemeinsames Abendessen/Neues Forth Buch bemurmeln
 - 21:00 Drachenrat
