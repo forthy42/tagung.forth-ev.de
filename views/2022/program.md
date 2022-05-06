@@ -12,14 +12,14 @@
 - 14:00 Begrüßung und Ablauferklärung
 SESSIONS(2022-05-06)  Offizielles Ende, Offener Chat
 
-#### Samstag, 13. November
+#### Samstag, 7. Mai
 - 13:00 Zusammenkunft
 - 13:50 Ordnungsruf - fertig werden (Bitte spätestens jetzt online sein)
 SESSIONS(2022-05-07) Kochen/Essen Bestellen
 - 18:00 Gemeinsames Abendessen/Neues Forth Buch bemurmeln
 - 21:00 Drachenrat
 
-#### Sonntag, 14. November
+#### Sonntag, 8. Mai
 - 09:00 Mitgliederversammlung, [Offizielle Einladung (PDF)](/files/2022/FG-Mitgliederversammlung-2022-05-08.pdf)
 - 12:30 Offizielles Ende, Offener Chat
 
