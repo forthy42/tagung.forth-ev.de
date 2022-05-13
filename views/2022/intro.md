@@ -24,7 +24,7 @@ CyberSwappy freut sich auf Eure Teilnahme, bitte nutzt dazu das [untrige Formula
 
 ![Cyberswappy](/images/2022/cyberswappy-small.png)
 
-CyberSwappy by Amend & Gerald Wodni
+CyberSwappy by Bernd Amend & Gerald Wodni
 
 ## Programm
 
