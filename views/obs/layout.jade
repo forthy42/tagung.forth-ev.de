@@ -7,7 +7,7 @@ mixin sidebar
     div.euroforth
         img.logo(src="/images/logo-big.png", alt="Forth e.V. Logo")
         span.euroforth.number
-            | 2021
+            =moment().format("YYYY")
         span.euroforth.name
             | ForthTagung
         span.euroforth.year
