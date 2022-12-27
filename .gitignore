@@ -1,2 +1,4 @@
 .*.swp
-users.json
+
+# ignore private repo for user data
+private
