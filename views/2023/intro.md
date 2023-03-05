@@ -3,7 +3,7 @@ REGISTERBUTTON
 
 __[Offizielle Einladung (PDF) (link folgt)](/files/2022/FG-Mitgliederversammlung-2022-05-08.pdf)__
 
-## Online, 25. & 26. März 2022
+## Online, 25. & 26. März 2023
 
 Lieber Forther,
 
