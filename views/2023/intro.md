@@ -3,7 +3,7 @@ REGISTERBUTTON
 
 __[Offizielle Einladung (PDF) (link folgt)](/files/2022/FG-Mitgliederversammlung-2022-05-08.pdf)__
 
-## Online, 25. & 26. März 2023
+## Online, 6. & 7. Mai 2023
 
 Lieber Forther,
 
@@ -60,15 +60,15 @@ Bitte nehmen Sie an unserer Generalprobe teil, besonders wenn Sie nicht bei der 
 
 __Das [aktuelleste Programm findet sich hier](/program).__
 
-#### Freitag, 24. März
+#### Freitag, 5. Mai
 - 19:00 Informelles Treffen ohne besonderes Programm
 
-#### Samstag, 25. März
+#### Samstag, 6. Mai
 - Vormittag: Vorträge und Workshops
 - Nachmittag: Vorträge und Workshops
 - Abend: Gemeinsames Abendessen (Online-Edition
 
-#### Sonntag, 26. März
+#### Sonntag, 7. Mai
 - 10:00-13:00 Mitgliederversammlung, [Offizielle Einladung (PDF) (link flogt)](/files/2022/FG-Mitgliederversammlung-2022-05-08.pdf)
 - 15:00-18:00 Platz für weitere Workshops
 

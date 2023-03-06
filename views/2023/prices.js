@@ -34,7 +34,7 @@ module.exports = {
     },
     meeting: {
         openRegistration: "2023-03-01",
-        start: "2023-03-25"
+        start: "2023-05-057
     },
     bbbRooms: {
         conference: { name: "Konferenz",   type: "conference", rights: "attendee", layout: "PRESENTATION_FOCUS"},
@@ -49,7 +49,7 @@ module.exports = {
     },
     hotels: [
         {
-            header: "Online - ForthTagung (25. & 26. Mai)",
+            header: "Online - ForthTagung (5. & 7. Mai)",
             description: "Voller Zugang",
             modes: [
                 { name: "Einzelperson:",    value: "ForthTagung+Online",    complete: 0.00 },
