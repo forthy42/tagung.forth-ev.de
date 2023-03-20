@@ -34,7 +34,7 @@ module.exports = {
     },
     meeting: {
         openRegistration: "2023-03-01",
-        start: "2023-05-057
+        start: "2023-05-05"
     },
     bbbRooms: {
         conference: { name: "Konferenz",   type: "conference", rights: "attendee", layout: "PRESENTATION_FOCUS"},
