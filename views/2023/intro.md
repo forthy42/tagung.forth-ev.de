@@ -1,7 +1,7 @@
 # Forth Tagung 2023
 REGISTERBUTTON
 
-__[Offizielle Einladung (PDF) (link folgt)](/files/2022/FG-Mitgliederversammlung-2022-05-08.pdf)__
+__[Offizielle Einladung (PDF)](/files/2023/FG-Mitgliederversammlung-2023-05-07.pdf)__
 
 ## Online, 6. & 7. Mai 2023
 
@@ -69,6 +69,6 @@ __Das [aktuelleste Programm findet sich hier](/program).__
 - Abend: Gemeinsames Abendessen (Online-Edition
 
 #### Sonntag, 7. Mai
-- 10:00-13:00 Mitgliederversammlung, [Offizielle Einladung (PDF) (link flogt)](/files/2022/FG-Mitgliederversammlung-2022-05-08.pdf)
+- 10:00-13:00 Mitgliederversammlung, [Offizielle Einladung (PDF)](/files/2023/FG-Mitgliederversammlung-2023-05-07.pdf)
 - 15:00-18:00 Platz für weitere Workshops
 

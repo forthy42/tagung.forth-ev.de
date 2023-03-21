@@ -21,7 +21,7 @@ __Das [aktuelleste Programm findet sich hier](/program).__
 SESSIONS(2023-05-06)  Offizielles Ende, Offener Chat
 
 #### Sonntag, 7. Mai
-- 10:00-13:00 Mitgliederversammlung, [Offizielle Einladung (PDF) (link flogt)](/files/2022/FG-Mitgliederversammlung-2022-05-08.pdf)
+- 10:00-13:00 Mitgliederversammlung, [Offizielle Einladung (PDF)](/files/2023/FG-Mitgliederversammlung-2023-05-07.pdf)
 - 15:00-18:00 Platz für weitere Workshops
 SESSIONS(2023-05-07)  Offizielles Ende, Offener Chat
 
