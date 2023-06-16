@@ -1,6 +1,6 @@
 # Programm
 
-## Online, 6. & 7. Mai 2022
+## Online, 6. & 7. Mai 2023
 
 
 ### Forth Tagung 2023
@@ -19,6 +19,9 @@ __Das [aktuelleste Programm findet sich hier](/program).__
 - 08:50 Ordnungsruf - fertig werden (Bitte spätestens jetzt online sein)
 - 09:00 Begrüßung und Ablauferklärung
 SESSIONS(2023-05-06)  Offizielles Ende, Offener Chat
+- 16:45 VD International & Druckkosten
+- 18:00 Gemeinsames Abendessen/VD-International & Kosten bemurmeln
+- 21:00 Drachenrat
 
 #### Sonntag, 7. Mai
 - 10:00-13:00 Mitgliederversammlung, [Offizielle Einladung (PDF)](/files/2023/FG-Mitgliederversammlung-2023-05-07.pdf)
