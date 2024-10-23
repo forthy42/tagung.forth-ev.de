@@ -10,20 +10,26 @@ mixin video-box()
 
 block content
     +video-box().presentation.schedule
+        - var showSession = false;
         each session in sessions || []
-            h3
-                code
-                    = session.shortTime
-                    i UTC
-                = session.name
-            ul
-                each presentation in session.presentations
-                    - console.log( presentation.id, activePresentationId );
-                    li( class = presentation.id == activePresentationId ? "active" : null )
-                          .presentation-guest
-                              = presentation.guestName
-                          .presentation-title
-                              = presentation.title
+            each presentation in session.presentations
+                if presentation.id == activePresentationId
+                    - showSession = true
+            if session.presentations.length > 0 && showSession
+                h3
+                    code
+                        = session.shortTime
+                        i CEST
+                    = session.name
+                ul
+                    - console.log( session.name );
+                    each presentation in session.presentations
+                        - console.log( presentation.id, activePresentationId );
+                        li( class = presentation.id == activePresentationId ? "active" : null )
+                              .presentation-guest
+                                  = presentation.guestName
+                              .presentation-title
+                                  = presentation.title
 
     if showAvatar
         +video-box().avatar
