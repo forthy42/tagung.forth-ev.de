@@ -63,7 +63,7 @@ block content
                             b Fully Booked
                     else
                         each mode in hotel.modes
-                            +mode( mode.name, "hotel", mode.value, mode.complete )
+                            +mode( mode.name, "hotel", mode.value, mode.complete, mode.defaultMode || false )
                         if hotel.extraDays && hotel.extraDays.length
                             +extraDays( hotel.extraDays )
 
@@ -97,9 +97,9 @@ block content
                     h4 Partnerdetails
                     div#partnerDetails
                         +header( "Keine Begleitung" )
-                        +mode( "ohne Begleitung", "partner", "Kein", 0.0 )
+                        +mode( "ohne Begleitung", "partner", "Kein", 0.0, true )
                         +header( "Verpflegung & Ausflüge für Begleitung" )
-                        +mode( "mit Begleitung", "partner", "Partner", meeting.partnerComplete, meeting.partnerWithout0 )
+                        +mode( "mit Begleitung", "partner", "Partner", meeting.partnerComplete )
                         +text-field( "partnerName", "Name", values.partnerName )
                         +text-field( "partnerAddress", "Address", values.partnerAddress )
                         +checkbox-field( "partnerTour", "Interessiert an einem Partner-Track?", values.partner.indexOf("YES") > 0 )

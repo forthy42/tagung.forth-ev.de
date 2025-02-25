@@ -43,7 +43,7 @@ module.exports = {
             header: "Forth Tagung im WIR-Projekt Tagungshaus (24.-27. April)",
             description: "Übernachten+Tagung im WIR-Projekt Tagungshaus",
             modes: [
-                { name: "Übernachtung + Tagungsbeitrag:", value: "Bett+Tagung", complete: 295.00 },
+                { name: "Übernachtung + Tagungsbeitrag:", value: "Tagung+SingleRoom", complete: 295.00, defaultMode: true },
             ]
         },
         {
