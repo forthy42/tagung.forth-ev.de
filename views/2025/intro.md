@@ -1,0 +1,47 @@
+# Forth-Tagung 2025
+REGISTERBUTTON
+## WIR-Projekt Burladingen
+Nach vielen virtuellen Jahren findet wir uns zur ordentliche Tagung der Forth-Gesellschaft wieder physisch zusammen.
+
+Die Tagung findet vom 24.  bis 27.  April 2025 im [WIR-Projekt Tagungshaus](https://www.wir-projekt.de) in
+Burladingen statt.
+
+[Anreise](https://www.wir-projekt.de/tagungshaus/so-finden-sie-uns/)
+
+![1](/images/2025/wir00.jpg)
+
+![2](/images/2025/wir01.jpg)
+
+![3](/images/2025/wir02.jpg)
+
+Bilder: WIR-Projekt
+
+## Programm
+
+### Donnerstag
+- _ab 13:00_ Frühankommer-Workshops
+- _ab 18:00_ Abendessen
+- _ab 20:00_ Tagungsräume
+
+### Freitag
+- _08:00_ Frühstück
+- _vormittags_ Beginn der Tagung mit Vorträgen und Workshops
+- _12:30_ Mittagessen
+- _nach dem Essen_ Verdauungsspazierung
+- _nachmittags_ Vorträge und Workshops
+- _19:00_ Abendessen
+
+### Samstag
+- _08:00_ Frühstück
+- _vormittags_ Exkursion
+- _12:30_ Mittagessen
+- _nachmittags_ Vorträge und Workshops
+- _18:00_ Abendessen
+- _ab 20:00_ Tagungsräume
+
+### Sonntag
+- _08:00_ Frühstück
+- _09:00-11:30_ Vereinsversammlung der Forth-Gesellschaft e.V.
+- _12:30_ Mittagessen
+- _14:00_ Abreise
+
