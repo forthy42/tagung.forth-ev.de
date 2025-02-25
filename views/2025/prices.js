@@ -34,14 +34,16 @@ module.exports = {
     },
     meeting: {
         openRegistration: "2025-01-23",
-        start: "2025-04-25"
+        start: "2025-04-25",
+        partnerComplete: 220,
+        partnerWithout0: 220,
     },
     hotels: [
         {
             header: "Forth Tagung im WIR-Projekt Tagungshaus (24.-27. April)",
             description: "Übernachten+Tagung im WIR-Projekt Tagungshaus",
             modes: [
-                { name: "Bett:", value: "Room+Tagung", complete: 295.00 },
+                { name: "Übernachtung + Tagungsbeitrag:", value: "Bett+Tagung", complete: 295.00 },
             ]
         },
         {

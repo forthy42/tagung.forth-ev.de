@@ -8,6 +8,10 @@ Burladingen statt.
 
 [Anreise](https://www.wir-projekt.de/tagungshaus/so-finden-sie-uns/)
 
+![0](/images/2025/burg-hohenzollern-klein.jpg)
+
+Burg Hohenzollern - Exkursionsziel
+
 ![1](/images/2025/wir00.jpg)
 
 ![2](/images/2025/wir01.jpg)
@@ -33,7 +37,7 @@ Bilder: WIR-Projekt
 
 ### Samstag
 - _08:00_ Frühstück
-- _vormittags_ Exkursion
+- _vormittags_ Exkursion zur Burg Hohenzollern
 - _12:30_ Mittagessen
 - _nachmittags_ Vorträge und Workshops
 - _18:00_ Abendessen

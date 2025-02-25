@@ -93,16 +93,16 @@ block content
 
                 hr
 
-                if false
-                    h4 Details about your Entourage
+                if true
+                    h4 Partnerdetails
                     div#partnerDetails
-                        //-+header( "Keine Begleitung" )
-                        //-+mode( "ohne Begleitung", "partner", "Kein", 0.0 )
-                        //-+header( "Verpflegung & Ausflüge für Begleitung" )
-                        //-+mode( "mit Begleitung", "partner", "Partner", meeting.partnerComplete, meeting.partnerWithout0 )
+                        +header( "Keine Begleitung" )
+                        +mode( "ohne Begleitung", "partner", "Kein", 0.0 )
+                        +header( "Verpflegung & Ausflüge für Begleitung" )
+                        +mode( "mit Begleitung", "partner", "Partner", meeting.partnerComplete, meeting.partnerWithout0 )
                         +text-field( "partnerName", "Name", values.partnerName )
                         +text-field( "partnerAddress", "Address", values.partnerAddress )
-                        +checkbox-field( "partnerTour", "Interested in partner-track (sightseeing, see above)", values.partner.indexOf("YES") > 0 )
+                        +checkbox-field( "partnerTour", "Interessiert an einem Partner-Track?", values.partner.indexOf("YES") > 0 )
 
                     hr
 
