@@ -5,9 +5,8 @@ module.exports = {
     year: 2025,
     registerButton: "Anmelden",
     myName: "meineTagung",
-    operatorEmail: "gerald.wodni@gmail.com",
+    operatorEmail: "bernd@net2o.de",
     operatorBankAccount: "HINWEIS: dieser Wert wird über eine Umgebungsvariable bereitgestellt",
-    chatRegistration: "HINWEIS: dieser Wert wird über eine Umgebungsvariable bereitgestellt",
 
     /* message to show after successful registration */
     successTemplate: function _successTemplate( { price } ) {
@@ -20,7 +19,7 @@ module.exports = {
     /* registration email text body */
     emailTemplate: function _emailTemplate( { prices, values, price, website } ) {
         return `Hotel: ${values.hotel}\nExtra Tage: ${values.extraDays}\nPreis (gesamt): ${price}`
-            + ( price > 0 ? `\nBitte transferieren Sie den vollen Eurobetrag an:\n${prices.operatorBankAccount}` : '' )
+            + ( price > 0 ? `\nBitte transferieren Sie den vollen Eurobetrag an:\n${process.env.OPERATOR_BANK_ACCOUNT.replace(/\\n/g, '\n')}` : '' )
             + ( prices.chatRegistration ? `\n\n${process.env.CHAT_REGISTRATION}` : '' )
             + `\n\nUm an der Konferenz teilzunehmen, und  Ihre Präsentation(en) selbst zu editieren verwenden Sie bitte folgendem Link: https://${website}/${prices.myName}/${values.editHash}`
             + `\n\nName: ${values.name}`
