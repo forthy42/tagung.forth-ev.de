@@ -5,7 +5,7 @@ module.exports = {
     year: 2025,
     registerButton: "Anmelden",
     myName: "meineTagung",
-    operatorEmail: "bernd@net2o.de",
+    operatorEmail: "tagung@net2o.de",
     operatorBankAccount: "HINWEIS: dieser Wert wird über eine Umgebungsvariable bereitgestellt",
 
     /* message to show after successful registration */
