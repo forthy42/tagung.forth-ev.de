@@ -1,7 +1,7 @@
 # Forth-Tagung 2025
 REGISTERBUTTON
 ## WIR-Projekt Burladingen
-Nach vielen virtuellen Jahren findet wir uns zur ordentliche Tagung der Forth-Gesellschaft wieder physisch zusammen.
+Nach vielen virtuellen Jahren finden wir uns zur ordentlichen Tagung der Forth-Gesellschaft wieder physisch zusammen.
 
 Die Tagung findet vom 24.  bis 27.  April 2025 im [WIR-Projekt Tagungshaus](https://www.wir-projekt.de) in
 Burladingen statt.
